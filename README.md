@@ -1,5 +1,5 @@
 # back-end-blog
 
-A blog application that allows users to create read blog their blog entries or create new ones.
+A blog application that allows users to create or read their blog entries.
 
 Practising RESTful APIs, MVC architecture and improving my proficiency in EJS.
